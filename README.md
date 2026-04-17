@@ -29,7 +29,7 @@ To view the project locally:
 I am a student and aspiring web developer passionate about building web applications and learning new technologies. This project is part of my journey to becoming a full-stack developer.
 
 ## Connect with Me 🤝 :
-- LinkedIn: [HARSHAA SG](https://www.linkedin.com/in/harshaasg)  
+- LinkedIn : [HARSHAA SG](https://www.linkedin.com/in/harshaasg)  
 
 ---
 
