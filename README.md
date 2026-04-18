@@ -30,7 +30,5 @@ I am a student and aspiring web developer passionate about building web applicat
 
 ## Connect with Me 🤝 :
 - LinkedIn : [HARSHAA SG](https://www.linkedin.com/in/harshaasg)  
-
----
-
+- Gmail : harshaavardhan8@gmail.com
 ⭐ Feel free to fork this project and improve it!
